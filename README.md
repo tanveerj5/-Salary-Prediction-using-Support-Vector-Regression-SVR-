@@ -57,3 +57,12 @@ This project demonstrates how **SVR** can be used to predict salaries based on p
 
 The results are visualized using **Matplotlib** to show both **standard and high-resolution plots**. 🛠️✨
 
+## 🔍 Test Visualization  
+A test visualization demonstrates how the model predicts values, highlighting its generalization ability. 📊🔎  
+
+![Test Visualization](https://github.com/tanveerj5/-Salary-Prediction-using-Support-Vector-Regression-SVR-/blob/main/test%20resolution%20result.png)  
+
+## 🎯 Smooth Visualization  
+A high-resolution curve provides a clearer and more refined representation of the model’s predictions. 📈✨  
+
+![Smooth Visualization](https://github.com/tanveerj5/-Salary-Prediction-using-Support-Vector-Regression-SVR-/blob/main/smooth%20resolution.png)  
